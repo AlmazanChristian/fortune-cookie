@@ -1,3 +1,3 @@
-const getRandomMessage = require("./fortunes");
+const getFortune = require("./fortunes");
 
-console.log(getRandomMessage())
+console.log(getFortune())
